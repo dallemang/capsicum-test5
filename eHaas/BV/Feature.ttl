@@ -1,0 +1,17 @@
+# baseURI: http://www.telstra.com/eHaas/BV/Feature
+
+
+# c14n-version: 3
+@prefix CBV: <http://capsi.com.au/core/CAPSICUM-BV#> .
+@prefix CDS: <http://capsi.com.au/core/DomainScaffold#> .
+@prefix CTV: <http://capsi.com.au/core/CAPSICUM-TV#> .
+@prefix capsi: <http://capsi.com.au/core/MetaConcepts#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix CIM: <http://www.telstra.com/eHaas/eHaas-Scaffold#> .
+
+<http://www.telstra.com/eHaas/BV/Feature>
+  rdf:type owl:Ontology .
+
